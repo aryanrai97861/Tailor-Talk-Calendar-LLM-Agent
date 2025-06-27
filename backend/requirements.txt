@@ -1,5 +1,9 @@
 fastapi
+uvicorn
 langgraph
 google-auth
 google-api-python-client
-uvicorn 
+python-dotenv
+google-generativeai
+dateutil
+requests 
