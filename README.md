@@ -21,7 +21,7 @@ A conversational AI agent that helps users book appointments on Google Calendar 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/tailor-talk.git
+git clone https://github.com/aryanrai97861/Tailor-Talk-Calendar-LLM-Agent.git
 cd tailor-talk
 ```
 
