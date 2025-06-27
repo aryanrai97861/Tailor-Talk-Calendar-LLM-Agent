@@ -31,9 +31,9 @@ if user_input:
             "start_time": st.session_state["start_time"]
         }
         response = requests.post(
-            "http://127.0.0.1:8000/chat",
-            json=payload,
-            timeout=10
+        "https://tailor-talk-calendar-llm-agent-2.onrender.com/chat",
+        json=payload,
+        timeout=10
         )
         data = response.json()
         agent_reply = data.get("response", "(No response)")
