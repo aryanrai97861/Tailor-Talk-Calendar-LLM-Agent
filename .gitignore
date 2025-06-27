@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment and credentials
+.env
+backend/credentials.json
+
+# Streamlit and FastAPI
+frontend/.streamlit/
+
+# VSCode and IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# OS files
+Thumbs.db 
